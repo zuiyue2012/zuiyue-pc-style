@@ -1,0 +1,19 @@
+{
+  "name": "zuiyue-pc-style",
+  "version": "1.0.0",
+  "description": "pc端样式基类",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuiyue2012/zuiyue-pc-style.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zuiyue2012/zuiyue-pc-style/issues"
+  },
+  "homepage": "https://github.com/zuiyue2012/zuiyue-pc-style#readme"
+}
